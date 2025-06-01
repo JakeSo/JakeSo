@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
-I'm a passionate software developer based in Charlotte, NC, with a love for building exciting software and teaching others how to program. My journey into coding started back in the 8th grade when I stumbled upon Code.org, and since then, I've been hooked!
+I'm a passionate software developer based in Charlotte, NC, with a love for building exciting software and teaching others how to program. My journey into coding began in the 8th grade when my teacher introduced us to Code.org, and since then, I've been hooked!
 
 ## 🌱 Current Projects
 
-I'm currently working on building websites for new local businesses, leveraging my skills in React, Node.js, and .NET to create modern and functional web experiences.
+I'm currently working on building AI agents and event-driven integrations for smart devices.
 
 ## 💡 Inspirations & Goals
 
